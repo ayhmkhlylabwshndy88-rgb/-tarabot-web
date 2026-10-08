@@ -2,7 +2,7 @@
    ترابط v3.0 — إدارة البيانات (API)
    ============================================================ */
 
-const API_URL = 'https://tarabot-api.onrender.com';
+const API_URL = 'https://tarabot-wurk.onrender.com';
 
 const Storage = {
 
